@@ -25,7 +25,7 @@ It replaces compatible characters by digraphs/trigraphs
 |{|??<|
 |}|??>|
 |#|??=|
-|\|??/|
+|\\|??/|
 |^|??'|
 |~|??-|
 
